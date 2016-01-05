@@ -8,3 +8,4 @@ scale=1.00
 
 24hrTime=0
 boxOnHoverOver=1
+alignRight=0
